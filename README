@@ -1,0 +1,13 @@
+###################################
+# 	 City Procedural Modeling     #
+###################################
+
+The purpose of this program is to generate randomly a very large (max 100 km²) low-poly city.
+There is 3 types of zones (commercial,residential & industrial) and all of them have their propers generation rules.
+
+Please look at the wiki to have an overview of the program.
+
+
+
+
+
