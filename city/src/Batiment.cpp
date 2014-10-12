@@ -1,7 +1,7 @@
 #include "Batiment.h"
-#include "Building/Building.h"
-#include "Maison/Maison.h"
-#include "Industrie/Usine.h"
+#include "Building.h"
+#include "Maison.h"
+#include "Usine.h"
 
 #include <iostream>
 

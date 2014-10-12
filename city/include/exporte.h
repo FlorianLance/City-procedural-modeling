@@ -5,7 +5,7 @@
 #define __Exporte__
 
 #include "shape.h"
-#include "batiments/Batiment.h"
+#include "Batiment.h"
 //#include "batiments/Industrie/UsineClassique.h"
 #include <vector>
 

@@ -4,9 +4,9 @@
 #include <iostream>
 #include "Building.h"
 #include "SmallBuilding.h"
-#include "../city.h"
-#include "../geometry.h"
-#include "../shape.h"
+#include "city.h"
+#include "geometry.h"
+#include "shape.h"
 
 class Building;
 

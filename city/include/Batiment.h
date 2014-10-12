@@ -2,9 +2,9 @@
 #define __Batiment__
 
 #include <vector>
-#include "../city.h"
-#include "../geometry.h"
-#include "etages\EtageFenetre.h"
+#include "city.h"
+#include "geometry.h"
+#include "EtageFenetre.h"
 
 class EtageFenetre;
 

@@ -1,0 +1,19 @@
+
+################ projects
+
+project-qt/
+
+################ scripts
+
+
+################ thirdParty
+
+
+################ generated files
+
+dist/
+
+# city
+city/data/
+city/lib/
+city/bin/

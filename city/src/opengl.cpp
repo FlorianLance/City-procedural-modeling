@@ -111,7 +111,7 @@ void Resize(int width, int height)
   // Define the projection matrix
   glMatrixMode (GL_PROJECTION);
   glLoadIdentity ();  
-  gluPerspective(45.0f,(GLfloat)width/(GLfloat)height,2.0f,500.0f);
+  gluPerspective(45.0f,(GLfloat)width/(GLfloat)height,2.0f,1000.0f);
 
   // Back to model space
   glMatrixMode(GL_MODELVIEW);

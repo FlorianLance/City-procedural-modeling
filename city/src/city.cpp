@@ -396,7 +396,7 @@ City::City() {}
 */
 void City::Generate()
 {
-	double x = 30 * UNITE; // x = 10  ->  1km² // maximum 15 pour l'exportation sous maya (trop lourd après)
+    double x = 30 * UNITE; // x = 10  ->  1km² // maximum 15 pour l'exportation sous maya (trop lourd après)
 	
 	std::vector<Centre> centres;
 

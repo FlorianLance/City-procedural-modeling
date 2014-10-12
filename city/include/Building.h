@@ -1,9 +1,9 @@
 #ifndef __Building__
 #define __Building__
 
-#include "../Batiment.h"
-#include "../../city.h"
-#include "../../geometry.h"
+#include "Batiment.h"
+#include "city.h"
+#include "geometry.h"
 
 class Batiment;
 

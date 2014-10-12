@@ -3,10 +3,10 @@
 
 #include <iostream>
 
-#include "../Batiment.h"
-#include "../../city.h"
-#include "../../geometry.h"
-#include "../../shape.h"
+#include "Batiment.h"
+#include "city.h"
+#include "geometry.h"
+#include "shape.h"
 
 class Batiment;
 

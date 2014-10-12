@@ -5,7 +5,7 @@
 #include "shape.h"
 #include "geometry.h"
 #include "city.h"
-#include "batiments\Batiment.h"
+#include "Batiment.h"
 #include <vector>
 
 class Quartier {

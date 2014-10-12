@@ -3,7 +3,7 @@
 #include <fstream>
 
 #include "exporte.h"
-#include "batiments/Industrie/UsineClassique.h"
+#include "UsineClassique.h"
  
 using namespace std;
 
